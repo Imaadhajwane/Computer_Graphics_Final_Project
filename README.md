@@ -225,13 +225,13 @@
 </ul>
 
 
-<h2>Folders</h2>
+<h2>5. Folders</h2>
 <p>This Repository contains one folder named "images". It contains 4 car images that are used as driver's car and rest of the car are used as obstracles. It also has a tree images that are used as design element in the GUI</p>
 
-<h2>Code File</h2>
+<h2>6. Code File</h2>
 <p>The code for the game is present in "CarJava.java" file</p>
 
-<h2>How to Clone and Run the Project</h2>
+<h2>7. How to Clone and Run the Project</h2>
 
 <h3>Step 1: Clone the Repository</h3>
 <p>To clone the GitHub repository, use the following command in your terminal or command prompt.</p>
