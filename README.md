@@ -229,7 +229,7 @@
 <p>This Repository contains one folder named "images". It contains 4 car images that are used as driver's car and rest of the car are used as obstracles. It also has a tree images that are used as design element in the GUI</p>
 
 <h2>6. Code File</h2>
-<p>The code for the game is present in "CarJava.java" file</p>
+<p>The code for the game is present in "CarGame.java" file</p>
 
 <h2>7. How to Clone and Run the Project</h2>
 
@@ -246,15 +246,15 @@
 </pre>
 
 <h3>Step 3: Compile the Java File</h3>
-<p>Assuming you have Java installed, you can compile the <code>CarJava.java</code> file using the <code>javac</code> command:</p>
+<p>Assuming you have Java installed, you can compile the <code>CarGame.java</code> file using the <code>javac</code> command:</p>
 <pre>
-<code>javac CarJava.java</code>
+<code>javac CarGame.java</code>
 </pre>
 
 <h3>Step 4: Run the Java Program</h3>
 <p>Once the compilation is successful, run the program using the <code>java</code> command:</p>
 <pre>
-<code>java CarJava</code>
+<code>java CarGame</code>
 </pre>
 
 
