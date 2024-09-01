@@ -228,7 +228,7 @@
 <h2>Folders</h2>
 <p>This Repository contains one folder named "images". It contains 4 car images that are used as driver's car and rest of the car are used as obstracles. It also has a tree images that are used as design element in the GUI</p>
 
-<h2>Codde File</h2>
+<h2>Code File</h2>
 <p>The code for the game is present in "CarJava.java" file</p>
 
 <h2>How to Clone and Run the Project</h2>
@@ -236,13 +236,13 @@
 <h3>Step 1: Clone the Repository</h3>
 <p>To clone the GitHub repository, use the following command in your terminal or command prompt.</p>
 <pre>
-<code>git clone your-repo-url</code>
+<code>git clone https://github.com/Imaadhajwane/Computer_Graphics_Final_Project.git</code>
 </pre>
 
 <h3>Step 2: Navigate to the Project Directory</h3>
 <p>After cloning, navigate into the directory of the project:</p>
 <pre>
-<code>cd your-repo-name</code>
+<code>cd Computer_Graphics_Final_Project</code>
 </pre>
 
 <h3>Step 3: Compile the Java File</h3>
@@ -257,12 +257,4 @@
 <code>java CarJava</code>
 </pre>
 
-<h3>Summary of Commands</h3>
-<pre>
-<code>
-git clone your-repo-url
-cd your-repo-name
-javac CarJava.java
-java CarJava
-</code>
-</pre>
+
